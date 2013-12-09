@@ -1,6 +1,6 @@
 {
   "name": "sourcemap-finder",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "find original position using sourcemap",
   "keywords": [ "sourcemap", "source-map" ],
   "repository": {
