@@ -1,7 +1,12 @@
 {
   "name": "sourcemap-finder",
   "version": "0.1.0",
-  "description": "",
+  "description": "find original position using sourcemap",
+  "keywords": [ "sourcemap", "source-map" ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/oroce/sourcemap-finder.git"
+  },
   "main": "index.js",
   "bin": {
     "smfinder": "bin/smfinder"
