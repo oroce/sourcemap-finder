@@ -6,7 +6,7 @@ find the original position of row and column using sourcemap.
 install
 ==============
 
-`npm install -g smfinder`
+`npm install -g sourcemap-finder`
 
 
 how to use
